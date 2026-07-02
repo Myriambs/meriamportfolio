@@ -14,7 +14,7 @@ export const profile = {
     gitlab: 'https://gitlab.com/bensalahmeriam19',
   },
   profileStatement:
-    "My path to QA wasn't linear — and that's exactly what makes me good at it. Coming from biology engineering, then moving into full-stack development and four years of technical instruction, I've learned to approach software from multiple angles: as a builder, a teacher, and a scientist. QA is where those perspectives converge. I bring structured thinking, strong documentation habits, and a genuine instinct for breaking things — backed by 250+ testing cycles and 180+ defect reports across real production environments.",
+    "Four years teaching full-stack JavaScript, then QA — where that instinct for explaining and debugging code finally had a name. I bring structured thinking, sharp documentation, and a real eye for what breaks: 250+ testing cycles, 180+ defect reports. Currently expanding into AI-assisted testing workflows and MCP integration with Playwright.",
 }
 
 export const heroStats = [
