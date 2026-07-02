@@ -33,8 +33,9 @@ export default function Projects() {
                 >
                   <div className="flex items-baseline gap-4 flex-wrap">
                     <span className="font-mono text-xs text-slate-dim">{String(i + 1).padStart(2, '0')}</span>
-                    <h3 className="font-display text-xl md:text-2xl text-paper">{project.title}</h3>
+                    <h3 className="font-display text-xl md:text-2xl text-paper">  {project.title}  </h3>
                     <span className="status-tag tag-neutral hidden sm:inline-flex">{project.tag}</span>
+                    <span className="status-tag tag-neutral hidden sm:inline-flex"><a href={project.links}  > Project Link</a></span>
                   </div>
                   <span className="font-mono text-xs text-slate shrink-0">
                     {isOpen ? '— collapse' : '+ expand'}

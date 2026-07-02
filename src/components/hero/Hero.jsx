@@ -84,9 +84,8 @@ export default function Hero() {
             transition={{ duration: 0.7, delay: 0.25 }}
             className="mt-6 text-slate text-base md:text-lg max-w-xl leading-relaxed"
           >
-            QA Engineer with a background in biology, full-stack development, and four
-            years of technical instruction. Structured thinking, strong documentation,
-            and a genuine instinct for breaking things.
+           Full-stack JavaScript developer with 4+ years of hands-on experience building and teaching web apps ,
+            skills that evolved into a QA Automation practice spanning manual and automation testing,now expanding into AI-assisted testing workflows.
           </motion.p>
 
           <motion.div

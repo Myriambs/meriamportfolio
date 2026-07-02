@@ -129,13 +129,14 @@ export const projects = [
       'Automated ticket lifecycle from local system to Trello — reducing manual effort and improving developer clarity.',
     ],
     stack: ['AI / Prompt Engineering', 'Trello API', 'Automation'],
-    links: {},
+    links: "https://github.com/Myriambs/Ai-Model",
   },
   {
     id: 'todo-drag-drop',
     title: 'Todo App with Drag & Drop',
     period: '2026 – Present',
     tag: 'Full-Stack & QA Automation',
+   
     summary: 'A full-stack Todo app with drag & drop, designed from the ground up as a QA showcase project with a full Playwright suite and CI pipeline.',
     details: [
       'Built a full-stack Todo app featuring drag & drop, designed from the ground up as a QA showcase project.',
@@ -144,7 +145,7 @@ export const projects = [
       'Added a GitLab CI pipeline to run tests on every push with HTML reports as artifacts.',
     ],
     stack: ['Playwright', 'Page Object Model', 'GitLab CI', 'Full-Stack'],
-    links: {},
+    links: "https://github.com/Myriambs/draganddrop_Todo" ,
   },
   {
     id: 'tayar-scrapper',
@@ -157,7 +158,7 @@ export const projects = [
       'Designed end-to-end QA strategy covering API, UI, and regression testing using Postman, Karate, and Playwright.',
     ],
     stack: ['React', 'Node.js', 'MongoDB', 'Puppeteer', 'Postman', 'Karate', 'Playwright'],
-    links: {},
+    links:  "https://github.com/Myriambs/tayara-car-scraper" ,
   },
 ]
 
