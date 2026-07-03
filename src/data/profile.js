@@ -29,13 +29,13 @@ export const careerPath = [
     stage: 'Industrial Biology Engineering',
     org: 'INSAT, Tunis',
     period: 'Sep 2013 – Oct 2018',
-    note: 'Built a foundation in hypothesis-driven thinking, controlled variables, and rigorous observation — the same discipline that later shaped how she designs test cases.',
+    note: 'Built a foundation in hypothesis-driven thinking, controlled variables, and rigorous observation — the same discipline that later shaped how i design test cases.',
   },
   {
     stage: 'Full-Stack JavaScript',
     org: 'GoMyCode',
     period: 'Nov 2020 – Feb 2021',
-    note: 'Retrained in modern web development, gaining first-hand fluency in the systems she would go on to test and teach.',
+    note: 'Retrained in modern web development, gaining first-hand fluency in the systems I would go on to test and teach.',
   },
   {
     stage: 'Senior Instructor & Technical Mentor',
@@ -62,7 +62,7 @@ export const experience = [
       'Filed 180+ structured defect reports with detailed reproduction steps, severity ratings, and expected vs. actual outcomes — supporting UAT phases directly.',
       'Validated 120+ peer-reported issues, ensuring accuracy across the full defect lifecycle.',
       'Contributed to 45+ user stories and test scenarios, improving test coverage and traceability.',
-      'Worked within distributed tester teams using structured feedback and issue clarification workflows.',
+      'Collaborated with distributed QA teams across time zones to clarify ambiguous defect reports before escalation.',
     ],
     stats: [
       { value: '250+', label: 'testing cycles' },
@@ -79,7 +79,7 @@ export const experience = [
       'Delivered technical training to 250+ students on full-stack JavaScript — planning, preparing, and continuously updating course materials.',
       'Led weekly debugging workshops simulating client-facing problem resolution using Postman and browser DevTools.',
       'Logged and tracked 200+ issues in Jira, maintaining documentation and structured resolution workflows.',
-      'Supported learners through API testing and integration troubleshooting — experience directly equivalent to guiding clients through UAT.',
+      'Supported learners through API testing and integration troubleshooting, building the same debugging instincts now applied to production QA work',
       'Improved cohort-wide debugging efficiency by introducing structured validation and testing practices.',
     ],
     stats: [

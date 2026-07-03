@@ -52,7 +52,7 @@ export default function Projects() {
                       className="overflow-hidden"
                     >
                       <div className="px-6 pb-8 pt-2 grid md:grid-cols-[1.4fr_1fr] gap-8">
-                        <div>
+                        <div> 
                           <p className="text-slate text-sm mb-4">{project.period}</p>
                           <ul className="flex flex-col gap-2.5">
                             {project.details.map((d, di) => (
